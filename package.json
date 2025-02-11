@@ -1,5 +1,5 @@
 {
-  "name": "eliza",
+  "name": "megan-eliza",
   "scripts": {
     "format": "biome format --write .",
     "lint": "biome lint .",
